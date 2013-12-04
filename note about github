@@ -1,0 +1,6 @@
+Note about Github:
+remote= origin4
+name of app= sample_app1
+
+ git remote add origin4 git@github.com:charleshsu168/sample_app1
+ git push -u origin4 master
