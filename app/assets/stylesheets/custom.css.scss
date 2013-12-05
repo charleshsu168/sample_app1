@@ -1,8 +1,9 @@
 @import "bootstrap";
 
 /* mixins, variables, etc. */
-
 $grayMediumLight: #eaeaea;
+$grayLight: #999;
+
 
 /* universal */
 
@@ -85,7 +86,7 @@ footer {
   a {
     color: $gray;
     &:hover {
-      color: $grayDarker;
+      color: $grayMediumLight;
     }
   }
   small {
