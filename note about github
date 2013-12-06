@@ -3,4 +3,6 @@ remote= origin4
 name of app= sample_app1
 
  git remote add origin4 git@github.com:charleshsu168/sample_app1
+ git add .
+ git commit -m "fixed root page inaccessible problem"
  git push -u origin4 master
