@@ -6,3 +6,6 @@ name of app= sample_app1
  git add .
  git commit -m "fixed root page inaccessible problem"
  git push -u origin4 master
+
+
+Heroku:
